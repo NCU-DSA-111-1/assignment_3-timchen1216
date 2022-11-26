@@ -1,1 +1,19 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9442636&assignment_repo_type=AssignmentRepo)
+# 108501026 assignment 4
+
+## 程式架構
+
+* Neural Network
+使用只有一層的hidden layer 的 fully connected Neural Network(簡稱FCNN)
+
+* activation function
+使用 sigmoid
+* loss function 使用 MSE
+
+## Compile & Run
+
+```sh
+# Compile
+g++ -o main main.cpp
+# Run
+./main
+```
